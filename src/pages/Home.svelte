@@ -25,6 +25,7 @@
     font-size: 200px;
     font-weight: 500;
     color: white;
+    overflow: hidden;
     @media screen and (max-width: 1200px) {
       font-size: 150px;
     }
