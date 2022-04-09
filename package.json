@@ -19,7 +19,7 @@
     "svelte-preprocess": "^3.4.0"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "sirv-cli": "^0.4.4",
     "svelte-routing": "^1.4.1",
     "sveltestrap": "^3.3.2"
